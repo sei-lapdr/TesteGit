@@ -6,5 +6,6 @@ int main() {
     printf("progresso");
     printf("Continuação");
     printf("Mai uma alteração");
+    printf("Conflito");
     
 }
